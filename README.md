@@ -54,7 +54,7 @@ Outliers were detected during seasonal peaks like holidays.
 
 Unemployment and CPI had mild effects. Holidays had a more direct influence on sales.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ---
 
@@ -75,7 +75,7 @@ Time Series Forecasting was performed using the **SARIMA** model:
 
 A close match between actual and predicted values confirms robust model performance.
 
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](actual_vs_predicted.png)
 
 ---
 
@@ -83,7 +83,7 @@ A close match between actual and predicted values confirms robust model performa
 
 The SARIMA model was used to forecast future sales trends for each store.
 
-![Forecasted Sales vs Actual](images/actual_vs_forecasted.png)
+![Forecasted Sales vs Actual](actual_vs_forecasted.png)
 
 ---
 
@@ -91,7 +91,7 @@ The SARIMA model was used to forecast future sales trends for each store.
 
 Each store has unique seasonal patterns and sales magnitudes.
 
-![Forecasts for Top Stores](images/top_stores_forecast.png)
+![Forecasts for Top Stores](top_stores_forecast.png)
 
 ---
 
@@ -99,7 +99,7 @@ Each store has unique seasonal patterns and sales magnitudes.
 
 All 45 stores show distinct trends, highlighting the need for store-specific models.
 
-![Seasonality Across All Stores](images/seasonality_all_stores.png)
+![Seasonality Across All Stores](seasonality_all_stores.png)
 
 ---
 
