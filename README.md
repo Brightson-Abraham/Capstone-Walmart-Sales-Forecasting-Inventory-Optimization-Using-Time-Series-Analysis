@@ -46,7 +46,7 @@ Walmart stores across the U.S. face challenges in matching inventory with weekly
 
 Outliers were detected during seasonal peaks like holidays.
 
-![Weekly Sales with Outliers](images/timeseries_outliers_final.png)
+![Weekly Sales with Outliers](timeseries_outliers_final.png)
 
 ---
 
